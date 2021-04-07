@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HalfLineTextView">
+        <attr name="text" format="reference|string" />
+        <attr name="textColor" format="reference|integer|color" />
+        <attr name="textSize" format="reference|dimension" />
+        <attr name="bgColor" format="reference|integer|color" />
+    </declare-styleable>
+</resources>
